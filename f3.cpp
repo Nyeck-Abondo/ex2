@@ -5,6 +5,6 @@ T Add(T a, T b) {
 }
 
 int main() {
-    
+    Add(10, 15);
     return 0;
 }
