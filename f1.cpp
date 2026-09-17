@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    float a = 0;
+    float p = 3;
     return 0;
 }
