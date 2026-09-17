@@ -2,5 +2,5 @@
 
 int main() {
     float p = 3;
-    return 0;
+    return 5;
 }
