@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    int q;
+    int q = 1;
     return 0;
 }
