@@ -3,6 +3,6 @@
 int main() {
     int q = 1;
     float c = 11;
-    double f = 10;
+    double z = 20;
     return 0;
 }
